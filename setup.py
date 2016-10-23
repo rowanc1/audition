@@ -19,7 +19,7 @@ test_requirements = [
 
 setup(
     name='audition',
-    version='0.0.1',
+    version='0.0.0',
     description="A small web framework that validates requests and provides an API.",
     long_description=readme + '\n\n' + history,
     author="Rowan Cockett",
